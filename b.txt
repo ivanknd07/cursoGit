@@ -1,2 +1,3 @@
 testando o clone no b.txt
 editando o b.txt
+continuamos com os testes

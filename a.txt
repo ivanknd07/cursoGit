@@ -1,2 +1,4 @@
 atualizando a.txt
 atualizando arquivo para testes
+funcionalidade a
+testando a funcionalidade
